@@ -21,7 +21,7 @@ This project is a virtual iPod application developed using React. It simulates t
 
 
 
-##Usage
+## Usage
 
 1. Use the track-wheel to navigate menus.
 2. Press the center button to select a menu item or play/pause a song.
