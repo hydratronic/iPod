@@ -17,24 +17,7 @@ This project is a virtual iPod application developed using React. It simulates t
 
 ## Installation
 
- Clone the repository:
 
-```shell
-git clone https://github.com/your-username/ipod.git
-
-2. Navigate to the project directory:
-
-cd ipod
-
-3. Install dependencies:
-
-npm install
-
-4. Start the application:
-
-npm start
-
-5. Open your browser and visit http://localhost:3000 to access the iPod application.
 
 
 
