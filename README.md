@@ -17,7 +17,7 @@ This project is a virtual iPod application developed using React. It simulates t
 
 ## Installation
 
-1. Clone the repository:
+ Clone the repository:
 
 ```shell
 git clone https://github.com/your-username/ipod.git
