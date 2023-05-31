@@ -2,6 +2,8 @@
 
 A virtual iPod application built with React.
 
+Hosted App - https://eloquent-choux-33a104.netlify.app/
+
 ## Description
 
 This project is a virtual iPod application developed using React. It simulates the functionalities of an iPod, allowing users to navigate menus, play songs, change themes, and set wallpapers. It provides an interactive and nostalgic experience for users to enjoy.
