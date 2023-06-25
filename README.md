@@ -2,7 +2,7 @@
 
 A virtual iPod application built with React.
 
-Hosted App - https://eloquent-choux-33a104.netlify.app/
+
 
 ## Description
 
